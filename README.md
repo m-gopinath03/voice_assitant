@@ -331,16 +331,6 @@ cd frontend
 streamlit run streamlit_app.py
 ```
 
-## 📈 Performance Metrics
-
-| Metric | Target | Status |
-|--------|--------|--------|
-| STT latency | < 2s | ✓ |
-| Intent classification | < 500ms | ✓ |
-| Memory retrieval | < 1s | ✓ |
-| Total response time | < 5s | ✓ |
-| UI responsiveness | < 100ms | ✓ |
-
 ## 🛠️ Development
 
 ### Setup Development Environment
