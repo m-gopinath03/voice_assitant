@@ -1,4 +1,4 @@
-# Voice Agentic AI - Complete System
+# Voice Agentic AI
 
 A production-ready voice assistant with CrewAI orchestration, ChromaDB memory, and Streamlit UI.
 
